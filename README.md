@@ -3,3 +3,4 @@ A Face recognition based attendance system automates attendance using facial rec
 
 
 Ignore gitignore file 
+See requirements and 
